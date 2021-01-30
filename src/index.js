@@ -22,7 +22,7 @@ module.exports = function tawkTo(propertyId){
     const script = document.createElement("script");
     script.id    = 'tawkId';
     script.async = true;
-    script.src   = 'https://embed.tawk.to/' + propertyId + '/default';
+    script.src   = 'https://embed.tawk.to/' + propertyId;
     script.charset = 'UTF-8';
     script.setAttribute('crossorigin', '*');
 
