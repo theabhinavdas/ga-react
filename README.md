@@ -1,6 +1,6 @@
-# tawkto-react
+# ga-react
 
-A simple script which help integrate tawk.to chat into any react application
+A simple script to integrate Google Analytics into React Starter Kit projects.
 
 ## Getting Started
 
@@ -9,13 +9,13 @@ A simple script which help integrate tawk.to chat into any react application
 Install package by running
 
 ```
-npm install tawkto-react --save
+npm install ga-react --save
 ```
 
 OR
 
 ```
-yarn add tawkto-react
+yarn add ga-react
 ```
 
 Usage in class component
