@@ -1,5 +1,5 @@
 {
-  "name": "tawkto-react",
+  "name": "gaReact",
   "version": "1.0.10",
   "description": "Integrate GA into react application",
   "main": "src/index.js",
