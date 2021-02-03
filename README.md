@@ -12,11 +12,18 @@ Install package by running
 npm install tawkto-react --save
 ```
 
+OR
+
+```
+yarn add tawkto-react
+```
+
 Usage in class component
 
 ```
 const tawkTo = require("tawkto-react");
 
+// note this is not just property id, but the string after the slash (/) as well
 const tawkToPropertyId = 'get_property_id_from_tawkto_dashboard'
 
 componentDidMount(){
@@ -40,6 +47,4 @@ Function must be called after the DOM is loaded, such as inside componentDidMoun
 
 ## Authors
 
-* **Steve Junior**
-
-
+- **Abhinav Das**
